@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-export default function Home() {
+export default function Index() {
   return (
     <div className="min-h-screen bg-gray-100">
       <Head>
